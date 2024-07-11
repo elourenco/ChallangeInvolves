@@ -10,4 +10,3 @@
 - Utilização do useCallback
 - Inicializar o state form com o a props e garantir a sincronização se ela vim mudar 
 - Evitar o problema de múltiplas instancias de intervalos sendo criada a cada renderização.
-- 
